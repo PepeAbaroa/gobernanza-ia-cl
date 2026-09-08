@@ -89,5 +89,3 @@ vinculante — nunca presentar (b) o (c) como si fueran (a).
 - **`infraestructura-ciberseguridad`** (complementa): el sistema que aloja la IA necesita los mismos
   controles técnicos que cualquier otro sistema crítico.
 - **`data-scientist-phd`** / **`expert-programmer`** (deriva-a): implementación técnica del modelo.
-- **`derecho-chileno-general`** (deriva-a): si la consulta se sale de gobernanza/riesgo hacia otras ramas
-  del derecho (ej. propiedad intelectual del Art. 71 T, responsabilidad civil).
