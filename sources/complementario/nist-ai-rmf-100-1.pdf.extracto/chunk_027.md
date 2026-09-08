@@ -1,0 +1,68 @@
+# página 28 — de nist-ai-rmf-100-1.pdf
+
+NIST AI 100-1
+AI RMF 1.0
+Table 1: Categories and subcategories for the GOVERN function. (Continued)
+GOVERN 1.5: Ongoing monitoring and periodic review of the
+risk management process and its outcomes are planned and or-
+ganizational roles and responsibilities clearly defined, including
+determining the frequency of periodic review.
+GOVERN 1.6: Mechanisms are in place to inventory AI systems
+and are resourced according to organizational risk priorities.
+GOVERN 1.7: Processes and procedures are in place for decom-
+missioning and phasing out AI systems safely and in a man-
+ner that does not increase risks or decrease the organization’s
+trustworthiness.
+GOVERN 2:
+Accountability
+structures are in
+place so that the
+appropriate teams
+and individuals are
+empowered,
+responsible, and
+trained for mapping,
+measuring, and
+managing AI risks.
+GOVERN 2.1: Roles and responsibilities and lines of communi-
+cation related to mapping, measuring, and managing AI risks are
+documented and are clear to individuals and teams throughout
+the organization.
+GOVERN 2.2: The organization’s personnel and partners receive
+AI risk management training to enable them to perform their du-
+ties and responsibilities consistent with related policies, proce-
+dures, and agreements.
+GOVERN 2.3: Executive leadership of the organization takes re-
+sponsibility for decisions about risks associated with AI system
+development and deployment.
+GOVERN 3:
+Workforce diversity,
+equity, inclusion,
+and accessibility
+processes are
+prioritized in the
+mapping,
+measuring, and
+managing of AI
+risks throughout the
+lifecycle.
+GOVERN 3.1: Decision-making related to mapping, measuring,
+and managing AI risks throughout the lifecycle is informed by a
+diverse team (e.g., diversity of demographics, disciplines, expe-
+rience, expertise, and backgrounds).
+GOVERN 3.2: Policies and procedures are in place to define and
+differentiate roles and responsibilities for human-AI configura-
+tions and oversight of AI systems.
+GOVERN 4:
+Organizational
+teams are committed
+to a culture
+GOVERN 4.1: Organizational policies and practices are in place
+to foster a critical thinking and safety-first mindset in the design,
+development, deployment, and uses of AI systems to minimize
+potential negative impacts.
+Categories
+Subcategories
+Continued on next page
+Page 23
+
