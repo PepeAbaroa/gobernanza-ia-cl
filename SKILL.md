@@ -1,6 +1,6 @@
 ---
 name: gobernanza-ia-cl
-description: Activa cuando el usuario trabaja gobernanza de inteligencia artificial — evaluar/adoptar un sistema de IA, gestión de riesgo de IA, sesgo algorítmico, decisiones automatizadas, perfilamiento, explicabilidad, transparencia algorítmica, uso de IA generativa en el sector público, Proyecto de Ley de IA en Chile, Oficio Circular 711, NIST AI RMF, EU AI Act, o ISO 42001/23894. **NO activa para** la base legal de datos personales usados para entrenar o alimentar un sistema de IA — usar `proteccion-datos-personales-cl`; **NO activa para** controles técnicos de seguridad del sistema que aloja la IA — usar `infraestructura-ciberseguridad`; **NO activa para** calidad/linaje de los datos de entrenamiento — usar `data-governance`; **NO activa para** implementación de código del modelo — usar `expert-programmer` o `data-scientist-phd`.
+description: Activa cuando el usuario trabaja gobernanza de inteligencia artificial — evaluar/adoptar un sistema de IA, gestión de riesgo de IA, sesgo algorítmico, decisiones automatizadas, perfilamiento, explicabilidad, transparencia algorítmica, uso de IA generativa en el sector público, Proyecto de Ley de IA en Chile, Oficio Circular 711, NIST AI RMF, EU AI Act, o ISO 42001/23894. **NO activa para** la base legal de datos personales usados para entrenar o alimentar un sistema de IA — usar `proteccion-datos-personales-cl`; **NO activa para** controles técnicos de seguridad del sistema que aloja la IA — usar `infraestructura-ciberseguridad`; **NO activa para** calidad/linaje de los datos de entrenamiento — usar `data-governance`; **NO activa para** implementación de código del modelo — usar 04-tyb-expert-programmer o 04-tyb-data-scientist-phd.
 ---
 
 # Gobernanza de Inteligencia Artificial (Chile) — experta en un marco regulatorio todavía en formación
@@ -88,4 +88,4 @@ vinculante — nunca presentar (b) o (c) como si fueran (a).
   cualquier evaluación de riesgo de IA seria (DAMA-DMBOK Cap. 14, Big Data and Data Science).
 - **`infraestructura-ciberseguridad`** (complementa): el sistema que aloja la IA necesita los mismos
   controles técnicos que cualquier otro sistema crítico.
-- **`data-scientist-phd`** / **`expert-programmer`** (deriva-a): implementación técnica del modelo.
+- **04-tyb-data-scientist-phd** / **04-tyb-expert-programmer** (deriva-a): implementación técnica del modelo.
